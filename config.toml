@@ -1,0 +1,41 @@
+baseurl = "http://digitalfort.com.au/"
+languageCode = "en-gb"
+title = "weblog"
+Paginate = 10
+SectionPagesMenu = "main"
+
+[author]
+	Handle = "bennysbanter"
+	FirstName = "Ben"
+	LastName = "Vilnis"
+	AboutPage = "/about"
+	Location = "Canberra, Australia"
+
+[params]
+	Description = "hello, friend."
+	ShowCopyright = true
+	RSSEnabled = true
+	RSSSections = [ "Posts", "Microposts", "Photos" ]
+
+[taxonomies]
+	tag = "tags"
+	category = "categories"
+	series = "series"
+
+[[menu.main]]
+  name = "Posts"
+  weight = 1
+	identifier = "posts"
+  url = "/posts/"
+
+[[menu.main]]
+	name = "Microposts"
+	weight = 2
+	identifier = "microposts"
+	url = "/microposts/"
+
+[[menu.main]]
+	name = "Photos"
+	weight = 3
+	identifier = "photos"
+	url = "/photos/"

@@ -1,0 +1,23 @@
+<footer>
+  <div class="footer_text">
+      <div>
+        <h3>Hello, friend. I'm {{ .Site.Author.firstname }}</a>.</h3>
+        <p>
+          {{ partial "bio.html" . }}
+        </p>
+      </div>
+      <div>
+        <h3>Where to find me.</h3>
+        <p>
+          {{ partial "social.html" . }}
+        </p>
+      </div>
+  </div>
+
+  {{ if .Site.Params.showcopyright }}
+    <div class="footer_copyright">
+      &copy; {{ now.Format "2006" }} <a href="#">{{ .Site.Author.firstname }} {{ .Site.Author.lastname }}</a>
+       - Made on The Deathstar
+    </div>
+  {{ end }}
+</footer>
