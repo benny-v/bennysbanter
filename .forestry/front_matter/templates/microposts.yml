@@ -6,6 +6,3 @@ fields:
 - type: datetime
   name: date
   label: Date
-pages:
-- content/microposts/mpost-2.md
-- content/microposts/test-mpost.md
