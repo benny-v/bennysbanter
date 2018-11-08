@@ -7,4 +7,5 @@ fields:
   name: date
   label: Date
 pages:
+- content/microposts/mpost-3.md
 - content/microposts/test-mpost.md
