@@ -6,9 +6,9 @@ title = "My first month at Envato"
 +++
 It has been one month now since I started my position at [Envato](https://envato.com) as a remote-working Site Reliability Engineer. Let me start by saying I have been extremely privileged to land such an excellent job at an excellent company as my first full-time role within the industry.
 
-My first month has been quite eye-opening. I came from my father's company where I managed a small infrastructure of telemetry data servers. While I achieved some cool things there and learnt a hell of a lot about Linux, servers, and what it means to be a sysadmin in general, my first week at Envato was a whole other ball game.
+My first month has been quite eye-opening. I came from my father's company where I managed a small infrastructure of telemetry data servers. While I achieved some cool things there and learnt a hell of a lot about Linux, servers, and what it means to be a sysadmin in general, my two weeks at Envato was a whole other ball game.
 
-It started with a two-week onboarding at the head office. This was quite a big step for me as I currently live in rural NSW and the office is in Melbourne CBD. After meeting my boss (and work partner) and getting my hardware all set up, it was time to start setting up my workflow with the plethora of tools and systems used by a leading-tech company of this size. But, first, I had to put a GNU/Linux over the Apple logo on my brand new MacBook Pro because...you know...trollololol.
+It started with a two-week onboarding at the head office. This was quite a big step for me as I currently live in rural NSW and the office is in Melbourne CBD. After meeting my boss (and work partner) and getting my hardware all set up, it was time to start setting up my workflow with the plethora of tools and systems used by a leading-tech company of this size. But, first, I had to put a GNU/Linux sticker over the Apple logo on my brand new MacBook Pro because...you know...trollololol.
 
 ![](/uploads/IMG_20181008_142723.jpg)
 
