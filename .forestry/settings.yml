@@ -5,6 +5,16 @@ admin_path: "/admin"
 webhook_url: 
 sections:
 - type: directory
+  path: content/posts
+  label: Posts
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/microposts
+  label: Microposts
+  create: all
+  match: "**/*"
+- type: directory
   path: content/photos
   label: Photos
   create: all
@@ -16,16 +26,6 @@ sections:
   label: Pages
   create: all
   match: "*"
-- type: directory
-  path: content/microposts
-  label: Microposts
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/posts
-  label: Posts
-  create: all
-  match: "**/*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
