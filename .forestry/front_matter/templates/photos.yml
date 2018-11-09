@@ -1,0 +1,11 @@
+---
+label: Photos
+hide_body: false
+is_partial: false
+fields:
+- type: datetime
+  name: date
+  label: Date
+- type: tag_list
+  name: tags
+  label: Tags
