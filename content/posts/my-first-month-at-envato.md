@@ -10,7 +10,7 @@ My first month has been quite eye-opening. I came from my father's company where
 
 It started with a two-week onboarding at the head office. This was quite a big step for me as I currently live in rural NSW and the office is in Melbourne CBD. After meeting my boss (and work partner) and getting my hardware all set up, it was time to start setting up my workflow with the plethora of tools and systems used by a leading-tech company of this size. But, first, I had to put a GNU/Linux over the Apple logo on my brand new MacBook Pro because...you know...trollololol.
 
-![](/uploads/IMG_20181008_142724.jpg)
+![](/uploads/IMG_20181008_142723.jpg)
 
 While I won't be divulging inner workings on a public platform like this, it's safe to say Envato is doing some cool stuff under the hood with even greater things on the way. For someone like me, having recently read [The Phoenix Project](https://amzn.to/2qDzgsW), [Google SRE Book](https://amzn.to/2qEvQpD) and being a wide-eyed n00by ready to take on the DevOps world, this was like a big sandbox of toys!
 
