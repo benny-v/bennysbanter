@@ -1,4 +1,4 @@
-baseurl = "http://blog.digitalfort.com.au/"
+baseurl = "http://bennysbanter.com.au/"
 languageCode = "en-gb"
 title = "weblog"
 Paginate = 10
