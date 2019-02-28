@@ -9,7 +9,7 @@ SectionPagesMenu = "main"
 	FirstName = "Ben"
 	LastName = "Vilnis"
 	AboutPage = "/about"
-	Location = "Canberra, Australia"
+	Location = "Sydney, Australia"
 
 [params]
 	Description = "hello, friend."
