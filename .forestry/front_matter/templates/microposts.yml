@@ -8,3 +8,5 @@ fields:
   label: Date
   config:
     required: true
+pages:
+- content/microposts/03/01/201912:00AM+1100.md
