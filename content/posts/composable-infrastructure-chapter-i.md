@@ -16,6 +16,6 @@ Wow, all you wanted to do was launch an app!
 
 So let's start getting smarter and write some infrastructure as code to take away to manual repetition and chances of human error for all this infrastructure. We write some infracode for the VPC, the autoscaling group, load-balancing, databases, networking...wait, this seems oddly familiar.
 
-While writing infracode for the infrastructure stack is a significant improvement, it still requires a considerable amount of manual work and maintenance for all that code. Then there's the reproducibility; what happens when we want to deploy multiple environments? Do we have all this code repetition for each environment? What if we're going to make a change across all our deployments, will we have to make the change several times across all this repetition?
+While writing infracode for the infrastructure stack is a significant improvement, it still requires a considerable amount of manual work and maintenance for all that code. Then there's the reproducibility; what happens when we want to deploy multiple environments? Do we have all this code repetition for each environment? What if we're going to make a change across all our deployments? Will we have to make the change several times across all this repetition?
 
 Surely there must be a better way...
