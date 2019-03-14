@@ -1,7 +1,6 @@
 ---
 label: Posts
 hide_body: false
-is_partial: false
 fields:
 - type: text
   label: Title
@@ -17,4 +16,5 @@ fields:
   name: tags
   label: Tags
 pages:
+- content/posts/composable-infrastructure-chapter-i.md
 - content/posts/my-first-month-at-envato.md
