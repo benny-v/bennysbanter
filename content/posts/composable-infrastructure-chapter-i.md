@@ -1,6 +1,5 @@
 +++
 date = "2019-03-14T07:00:00+00:00"
-draft = true
 tags = ["DevOps", "Lean IT", "Infracode", "Engineering", "Productivity"]
 title = "Composable Infrastructure: Chapter I"
 
