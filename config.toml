@@ -15,7 +15,7 @@ SectionPagesMenu = "main"
 	Description = "hello, friend."
 	ShowCopyright = true
 	RSSEnabled = true
-	RSSSections = [ "Posts", "Microposts", "Photos" ]
+	RSSSections = [ "Posts", "Microposts" ]
 
 [taxonomies]
 	tag = "tags"
@@ -33,9 +33,3 @@ SectionPagesMenu = "main"
 	weight = 2
 	identifier = "microposts"
 	url = "/microposts/"
-
-[[menu.main]]
-	name = "Photos"
-	weight = 3
-	identifier = "photos"
-	url = "/photos/"
