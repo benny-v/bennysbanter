@@ -13,21 +13,6 @@ sections:
   templates:
   - posts
 - type: directory
-  path: content/microposts
-  label: Microposts
-  create: documents
-  match: "**/*"
-  new_doc_ext: md
-  templates:
-  - microposts
-- type: directory
-  path: content/photos
-  label: Photos
-  create: all
-  match: "**/*"
-  templates:
-  - photos
-- type: directory
   path: content
   label: Pages
   create: all
