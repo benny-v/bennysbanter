@@ -21,6 +21,13 @@ sections:
   templates:
   - microposts
 - type: directory
+  path: content/photos
+  label: Photos
+  create: all
+  match: "**/*"
+  templates:
+  - photos
+- type: directory
   path: content
   label: Pages
   create: all

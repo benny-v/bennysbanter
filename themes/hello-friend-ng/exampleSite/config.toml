@@ -1,7 +1,7 @@
-baseURL = "https://bennysbanter.com.au"
-title   = "bennysbanter"
+baseURL = "https://example.com"
+title   = "Hello Friend NG"
 
-DefaultContentLanguage = "en-gb"
+DefaultContentLanguage = "en"
 
 theme = "hello-friend-ng"
 
@@ -9,7 +9,7 @@ PygmentsCodeFences = true
 PygmentsStyle = "monokai"
 
 rssLimit  = 10  # Maximum number of items in the RSS feed.
-copyright = "Ben Vilnis" # This message is only used by the RSS template.
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
 # googleAnalytics = ""
 # disqusShortname = ""
@@ -34,11 +34,11 @@ disableSitemap = false
 disable404     = false
 disableHugoGeneratorInject = false
 
-# [permalinks]
-#   posts = "/posts/:year/:month/:title/"
+[permalinks]
+  posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "Ben Vilnis"
+  name = "Jane Doe"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -54,11 +54,11 @@ disableHugoGeneratorInject = false
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "A place where I say words and stuff."
+  description = "Nice theme for homepages and blogs"
   keywords = ""
   images = [""]
 
-  homeSubtitle = "A place where I say words and stuff."
+  homeSubtitle = "Hello Friend NG"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""
@@ -84,19 +84,30 @@ disableHugoGeneratorInject = false
   # Social icons
   [[params.social]]
     name = "twitter"
-    url  = "https://twitter.com/bennysbanter"
+    url  = "https://twitter.com/"
 
   [[params.social]]
     name = "email"
-    url  = "mailto:benvilnis@digitalfort.com.au"
+    url  = "mailto:nobody@example.com"
 
   [[params.social]]
     name = "github"
-    url  = "https://github.com/benny-v"
+    url  = "https://github.com/"
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/in/benvilnis"
+    url  = "https://www.linkedin.com/"
+
+[languages]
+  [languages.en]
+    subtitle  = "Hello Friend NG Theme"
+    weight    = 1
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+
+  [languages.fr]
+    subtitle  = "Hello Friend NG Theme"
+    weight    = 2
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
 [menu]
   [[menu.main]]

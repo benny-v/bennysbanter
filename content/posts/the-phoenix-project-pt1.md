@@ -1,6 +1,7 @@
 +++
 title = "The Phoenix Project Pt1"
 date = "2018-11-08T08:37:44+11:00"
+tags = ["DevOps", "Lean IT", "Infracode", "Engineering", "Productivity"]
 +++
 
 Recently I was recommended by a fellow DevOps friend (and mentor) to read The Phoenix Project by Gene Kim, Kevin Behr and George Spafford, as part of my learning curriculum on the journey to becoming an engineer in the DevOps/SRE space.

@@ -1,8 +1,7 @@
 +++
-title = ""
+title = "About Me"
 
 +++
-# About Me
 
 My journey in technology started in ‘99 when my father opened a computer store in my little hometown of Windsor, out in the western suburbs of Sydney, Australia.
 </br>
