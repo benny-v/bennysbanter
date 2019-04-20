@@ -7,5 +7,3 @@ fields:
   label: Date
   config:
     required: true
-pages:
-- content/microposts/rakyll-quote.md
