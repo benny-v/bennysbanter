@@ -6,7 +6,7 @@ title = "Composable Infrastructure: Chapter I"
 +++
 ![](/uploads/board-2440249_1280.jpg)
 
-So you want to launch an app? You create a VPC; then a compute instance. You'll probably then want to create an autoscaling group across multiple availability zones and put a load balancer in front of it. You'll then need to provision databases, create some object storage to store files in and define a bunch of IAM policies to lock it all down.
+So you need to launch an app? You create a VPC; then a compute instance. You'll probably then want to create an autoscaling group across multiple availability zones and put a load balancer in front of it. You'll then need to provision databases, create some object storage to store files in and define a bunch of IAM policies to lock it all down.
 
 You are looking good! Oh, wait, everything is accessible on the internet!
 
