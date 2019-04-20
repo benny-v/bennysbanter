@@ -43,9 +43,9 @@ disableHugoGeneratorInject = false
 [blackfriday]
   hrefTargetBlank = true
 
-[taxonomies]
-  tag      = "tags"
-  category = ""
+# [taxonomies]
+#   tag      = "tags"
+#   category = ""
 
 [params]
   dateform        = "Jan 2, 2006"
@@ -58,7 +58,7 @@ disableHugoGeneratorInject = false
   keywords = ""
   images = [""]
 
-  homeSubtitle = "A place where I say words and stuff."
+  homeSubtitle = "A place where I write words and stuff."
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""
@@ -87,8 +87,8 @@ disableHugoGeneratorInject = false
     url  = "https://twitter.com/bennysbanter"
 
   [[params.social]]
-    name = "email"
-    url  = "mailto:benvilnis@digitalfort.com.au"
+    name = "instagram"
+    url  = "https://instagram.com/bennysbanter/"
 
   [[params.social]]
     name = "github"
@@ -107,3 +107,7 @@ disableHugoGeneratorInject = false
     identifier = "posts"
     name       = "Posts"
     url        = "posts/"
+  # [[menu.main]]
+  #   identifier = "tags"
+  #   name       = "Tags"
+  #   url        = "tags/"
