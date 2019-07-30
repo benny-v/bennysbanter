@@ -1,6 +1,6 @@
 ---
 title: "20% Time"
-date: 2019-07-04T13:38:10+10:00
+date: 2019-08-01T13:38:10+10:00
 draft: false
 toc: false
 images:
